@@ -1617,8 +1617,6 @@
 - [Kevin](https://github.com/KevinIsCool79)
 - [grigaut](https://github.com/grigaut)
 - [Alan](https://github.com/Alan-John-Byrne)
-- [Rekerito](https://github.com/Rxkerito)
-- [Harkirat Cheema](https://github.com/harry-cheema07)
-- [Harshita Upadhyay](https://github.com/harshita130602)
-- [bhavya](https://github.com/Raobhavya)
--- prettier-ignore-end -->
+ [Rekerito](https://github.com/Rxkerito
+-[bhavya](https://github.com/Raobhavya)
+
